@@ -1,2 +1,2 @@
 # prework-study-guide
-prework study bootcamp in ut- Austin
+Prework study bootcamp in ut- Austin
